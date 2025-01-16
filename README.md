@@ -3,7 +3,7 @@
 - 💞️I’m currently learning full-stack software engineering💞️
 - 📫 How to reach me michellewambaya@gmail.com
 - 😄 Pronouns: She/Awesome
-- ⚡ Fun fact: Whales are mammals not fish, python is a programming language...
+- ⚡ Fun fact:AI is the new Elixis
 
 <!---
 MichelleWambaya/MichelleWambaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
