@@ -1,10 +1,10 @@
 ## 👩🏾‍🎓🌏 About Me:
-👋🏾👋🏾 Hi, I’m @MichelleWambaya<br>I’m interested in Data Analytics and or web development<br>💞️I’m currently learning Data Science💞️<br>📫 How to reach me michellewambaya@gmail.com<br>😄 Pronouns: She/Awesome 👩🏾‍🦱
+I’m @MichelleWambaya<br>I’m interested in Data Analytics and or web development<br> I’m currently learning Data Science <br> How to reach me michellewambaya@gmail.com<br> Pronouns: She/Awesome 👩
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michelle-wambaya)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michellewambaya@gmail.com) 
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ### Data Analytics
 
@@ -28,7 +28,7 @@
 
 ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-### ✍️ Random Quote
+### Random Quote
 *“My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.”*
 ― Maya Angelou
 
