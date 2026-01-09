@@ -4,6 +4,12 @@ I’m @MichelleWambaya<br>Interested in Data Analytics and or web development<br
 ## Socials:
 [![Discord]](https://discord.com "Discord") [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michelle-wambaya)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michellewambaya@gmail.com) 
 
+[Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=1e2122&logoColor=339933&logo=node-dot-js
+[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=369cee&logoColor=ffffff&logo=docker
+[Next.js]: https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=next-dot-js
+[Discord]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&labelColor=5865F2&logoColor=ffffff&logo=discord
+[Ansible]: https://img.shields.io/badge/Ansible-000000?style=for-the-badge&labelColor=000000&logoColor=EE0000&logo=ansible
+
 ## Tech Stack:
 
 ### Data Analytics
