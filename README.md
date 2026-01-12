@@ -1,5 +1,5 @@
 ## 👩🏾‍🎓🌏 About Me:
-I’m @MichelleWambaya<br>Interested in Data Analytics and or web development<br> Currently learning Data Science <br> How to reach me michellewambaya@gmail.com<br> Pronouns: She/Awesome
+I’m @MichelleWambaya<br>Interested in Data Analytics and or web development<br> Currently learning Data Engineering <br> How to reach me michellewambaya@gmail.com<br> Pronouns: She/Awesome
 
 ## Socials:
 [![Discord]](https://discord.com "Discord") [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michelle-wambaya)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michellewambaya@gmail.com) 
